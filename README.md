@@ -28,6 +28,7 @@ The following UI components were generated using Vercel v0:
 Custom styling and responsiveness were further added manually.
 
 ### 🧩 Folder Structure
+
 src/
 ├── app/
 │ ├── globals.css
