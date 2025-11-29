@@ -29,14 +29,15 @@ Custom styling and responsiveness were further added manually.
 
 ### 🧩 Folder Structure
 src/
-app/
-page.tsx
-layout.tsx
-globals.css
-components/
-ui/
-HeroSection.tsx
-FeaturesSection.tsx
-TestimonialsSection.tsx
-PricingSection.tsx
-Footer.tsx
+├── app/
+│ ├── globals.css
+│ ├── layout.tsx
+│ └── page.tsx
+│
+└── components/
+└── ui/
+├── HeroSection.tsx
+├── FeaturesSection.tsx
+├── TestimonialsSection.tsx
+├── PricingSection.tsx
+└── Footer.tsx
